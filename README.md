@@ -15,6 +15,11 @@ The current way of installing
 2. `CRTSQLRPGI OBJ(FFPKGMGR/RELIC) SRCFILE(FFPKGMGR/QRPGLESRC) SRCMBR(RELIC) COMMIT(*NONE) OPTION(*EVENTF) RPGPPOPT(*LVL2) REPLACE(*YES) DBGVIEW(*SOURCE)` to compile.
 3. Should hopefully be installed. 
 
+**OR**
+
+1. Do a `git clone https://github.com/RelicPackages/FFEDIT.git /home/[USER]/Relic/` where `[USER]` is your user profile name (you also have to create the Relic directory). 
+2. Compile RELIC.RPGLE from the IFS (I use FFPKGMGR, you can use any) using `CRTSQLRPGI` with `COMMIT(*NONE)`.
+
 #### How to use
 
 1. Find a GitHub repo you want to install onto your system, for example [FFEDIT](https://github.com/RelicPackages/FFEDIT).
