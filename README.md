@@ -1,4 +1,6 @@
 # Relic Package Manager
+This project allows you to download and install programs onto your IBM i system from GitHub (soon to be any Git repo)
+
 Basic Package Manager for IBM i, tested on:
 
 + 7.1
