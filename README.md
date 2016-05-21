@@ -7,7 +7,7 @@ Basic Package Manager for IBM i, tested on:
 
 Currently, it **only supports GitHub**. This is because my hosted system doesn't have a version of Git, once my request has gone through to get it installed, you'll be able to use any Git repo.
 
-**If you want to get your RPG project on GitHub** then please let me know on [Gitter](https://gitter.im/WorksOfBarry) or by [emailing me](mrliamallan@live.co.uk). :
+**If you want to get your RPG project on GitHub** then please let me know on [Gitter](https://gitter.im/WorksOfBarry) or by [emailing me](mailto:mrliamallan@live.co.uk). :
 
 #### How to install
 
