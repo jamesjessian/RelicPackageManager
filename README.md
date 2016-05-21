@@ -1,4 +1,4 @@
-# RelicPackageManager
+# Relic Package Manager
 Basic Package Manager for IBM i, tested on:
 
 + 7.1
