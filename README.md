@@ -17,7 +17,7 @@ The current way of installing
 
 **OR**
 
-1. Do a `git clone https://github.com/RelicPackages/FFEDIT.git /home/[USER]/Relic/` where `[USER]` is your user profile name (you also have to create the Relic directory). 
+1. Do a `git clone https://github.com/Club-Seiden/RelicPackageManager.git /home/[USER]/Relic/` where `[USER]` is your user profile name (you also have to create the Relic directory). 
 2. Compile RELIC.RPGLE from the IFS (I use FFPKGMGR, you can use any) using `CRTSQLRPGI` with `COMMIT(*NONE)`.
 
 #### How to use
